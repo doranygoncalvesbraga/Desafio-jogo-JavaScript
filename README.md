@@ -11,14 +11,14 @@
  3- Personagem principal 
  4- Cenário fundo
  5- Elementos de Barreira
- 
- 2º ETAPA:
- 
- 1- Arquivo HTML
- 2- Arquivo CSS
+ 6- Arquivo HTML
+ 7- Arquivo CSS
 
-3° ETAPA:
+2° ETAPA:
+
 1- Construir Lógica do jogo
+2- JavaScript
+3-Inserir elementos complementares
  
  
  
